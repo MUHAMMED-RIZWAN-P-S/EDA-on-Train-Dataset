@@ -1,7 +1,7 @@
 Exploratory data analysis on a Train Dataset. 
 This project was made under CodeVita Live Skill Brewery Program where I was an intern.
 
-The task:
+Task:
 1. Perform exploratory data analysis on a dataset containing the average operating speed of popular trains in India.
 2. Create your own dataset(minimum 20 tuples) or find one online.
 3. As an intern under the Ministry of Railways, find the correlation between average operating speed and the frequency of train delays/accidents and derive any other relevant insights like passenger satisfaction, percentage of seat occupied, etc.
