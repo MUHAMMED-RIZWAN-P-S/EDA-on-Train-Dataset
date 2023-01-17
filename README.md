@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on a Train Dataset
+# Exploratory Data Analysis on Train Dataset
 
 Task:
 1. Perform exploratory data analysis on a dataset containing the average operating speed of popular trains in India.
